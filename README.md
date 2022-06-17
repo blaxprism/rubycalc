@@ -17,7 +17,7 @@ Questiona se o usuário gostaria de fazer mais uma conta<br/>
 Repete o código através de uma estrutura de repetição While<br/>
 <h3>Caso Negativo</h3>
 Encerra o código<hr/>
-<h2/>Variáveis utilizadas:<h2/>
+<h2>Variáveis utilizadas:</h2>
 num1 e num2 -> Valores inteiros inseridos pelo usuário<br/>
 sinal -> Operação escolhida pelo usuário(utilizada pela estrutura case)<br/>
 res -> Resultado da operação feita dentro da estrutura case<br/>
