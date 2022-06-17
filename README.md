@@ -1,6 +1,6 @@
 # Calculadora feita em Ruby
 <hr/>
-<h2>Como funcionam?</h2>
+<h2>Como funciona?</h2>
 Recebe 2 valores inteiros<br/>
 Recebe a operação de conta a ser feita<hr/>
 <h3>Operações disponíveis:</h3>
